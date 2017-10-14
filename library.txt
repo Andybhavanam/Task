@@ -3,4 +3,7 @@ Maths
 English
 Science
 
+Telugu
+Hindi
 Social
+Gk
